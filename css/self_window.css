@@ -1,0 +1,32 @@
+.InContext_HaveComments {
+   	-moz-border-radius: 4px 4px 4px 4px;   	
+   	border-radius: 4px;
+   	background-color: #558BC6;   
+    color: #FFFFFF !important;
+    cursor: pointer;
+    position:relative;
+}
+.InContext_NoComments {	
+   	-moz-border-radius: 4px 4px 4px 4px;
+   	border-radius: 4px;   	  	
+    background-color: #969696;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    position:relative; 
+}
+.InContext_HaveComments_Up {
+		border-top: 6px solid #558BC6;
+		border-right: 5px solid #fff;
+		height: 0px;
+		right: 3px;		
+		bottom: -5px;		
+		position:absolute;
+}
+.InContext_NoComments_Up {
+		border-top: 6px solid #969696;
+		border-right: 5px solid #fff;
+		height: 0px;
+		right: 3px;		
+		bottom: -5px;		
+		position:absolute;
+}

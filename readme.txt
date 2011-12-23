@@ -2,9 +2,9 @@
 Contributors: Wizag LLC
 Donate link: http://wizag.com/incontext.php
 Tags: Comments, Blog, Context
-Requires at least: 2.0.2
+Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 0.8.1
+Stable tag: 0.8.2
 
 "In-Context Comment" lets readers leave comments right next to the content being commented, instead of only at the bottom of the blog post
 
@@ -19,9 +19,9 @@ You can also configure the "In-Context Comment" plugin to automatically add a co
 
 You can either use the "Install new plugin" on Wordpress, or do the following:
 
-Download the zip file (In-Context_Comment.zip)
-Unpack the zip file. You should have a folder called 'In-Context_Comment', containing several PHP files
-Upload the 'In-Context_Comment' folder to the 'wp-content/plugins' folder on your WordPress server. It is important you retain the 'In-Context_Comment' directory structure
+Download the zip file (in-context-comments.zip)
+Unpack the zip file. You should have a folder called 'in-context-comments', containing several PHP files
+Upload the 'in-context-comments' folder to the 'wp-content/plugins' folder on your WordPress server. It is important you retain the 'in-context-comments' directory structure
 
 Note: This plugin will only affect new posts you write after the installation.
 
@@ -48,6 +48,10 @@ Yes, a user needs to log in via OAuth using Facebook or Twitter. Their login cre
 Visit http://wizag.com/incontext.php for example and documentation
 
 == Changelog ==
+
+= 0.8.2 =
+* This version fixes a function related bug.
+* Another change.
 
 = 0.8.1 =
 * First public release
